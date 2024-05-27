@@ -10,7 +10,8 @@ You can use the website to generate badges: https://shields.io/
 👋 Hi there! I'm back-end developer using Spring-Boot.
 
 ### 👨‍💼 Experience
-- Research & Development, ezCaretech (2020.01 ~ )
+- Research & Development, ezCaretech (2020.01 ~ 2023.12.01)
+- Assistant Research Engineer, IRM (2024.01.08 ~ )
 
 ### 🛠 Tech Stack
 #### Frameworks & Languages
