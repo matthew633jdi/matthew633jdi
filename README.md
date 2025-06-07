@@ -5,7 +5,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 [![mail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matthew633jdi@gmail.com)
 [![resume](https://img.shields.io/badge/Resume-47766a?style=round-square&logo=Notion)](https://matthew633jdi.notion.site/46595db103cb40cd9f3e83780a741f05?pvs=4)
-[![blog](https://velog.io/@matthew633jdi/posts)
+[![blog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@matthew633jdi/posts)
 
 👋 Hi there! I'm back-end developer using Spring-Boot.
 
