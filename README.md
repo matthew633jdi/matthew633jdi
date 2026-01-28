@@ -5,13 +5,14 @@ You can use the website to generate badges: https://shields.io/
 -->
 [![mail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matthew633jdi@gmail.com)
 [![resume](https://img.shields.io/badge/Resume-47766a?style=round-square&logo=Notion)](https://matthew633jdi.notion.site/46595db103cb40cd9f3e83780a741f05?pvs=4)
-[![blog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@matthew633jdi/posts)
+[![blog](https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://sow-faithfully-6-9.tistory.com/)
 
 👋 Hi there! I'm back-end developer using Spring-Boot.
 
 ### 👨‍💼 Experience
 - Research & Development, ezCaretech (2020.01 ~ 2023.12.01)
-- Assistant Research Engineer, IRM (2024.01.08 ~ )
+- Assistant Research Engineer, IRM (2024.01.08 ~ 2025. 04. 01)
+- System Engineer, Soo hospital (2025. 09. 01 ~ )
 
 ### 🛠 Tech Stack
 #### Frameworks & Languages
