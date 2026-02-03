@@ -31,4 +31,4 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&amp;logo=Intellijidea&amp;logoColor=white" /></a>
 <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&amp;logo=Gradle&amp;logoColor=white" /></a>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew633jdi&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew633jdi&show_icons=true&theme=radical)
