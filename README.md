@@ -4,7 +4,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 [![mail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matthew633jdi@gmail.com)
-[![resume](https://img.shields.io/badge/Resume-47766a?style=round-square&logo=Notion)](https://matthew633jdi.notion.site/46595db103cb40cd9f3e83780a741f05?pvs=4)
+[![resume](https://img.shields.io/badge/Resume-47766a?style=round-square&logo=Notion)](https://matthew633jdi.notion.site/20ed9bcf3f8680b2a8fee3cec49855eb)
 [![blog](https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://sow-faithfully-6-9.tistory.com/)
 
 👋 Hi there! I'm back-end developer using Spring-Boot.
@@ -31,4 +31,4 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&amp;logo=Intellijidea&amp;logoColor=white" /></a>
 <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&amp;logo=Gradle&amp;logoColor=white" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew633jdi&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew633jdi&show_icons=true&theme=radical) -->
